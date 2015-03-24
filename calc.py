@@ -17,7 +17,7 @@ while cont == True:
 	    print("'Dividing' 1st no. by 2nd no. : ",x/y)
 	else:
 	    print("OOPS! it seems like you have entered a wrong choice !") 	
-	c=bool(input("Do you want to continue ? (y/n)"))
+	c=input("Do you want to continue ? (y/n)")
 	if c == 'y':
 	    cont=False
 	else:
