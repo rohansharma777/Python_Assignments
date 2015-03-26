@@ -1,7 +1,7 @@
-print("To 'Add' two numbers press 1")
-print("To 'Multiply' two numbers press 2")
-print("To 'Subtract' two numbers press 3")
-print("For 'Division' press 4")
+print("""    To 'Add' two numbers press 1
+    To 'Multiply' two numbers press 2
+    To 'Subtract' two numbers press 3
+    For 'Division' press 4""")
 cont=True 
 while cont == True:
 	choice=int(input("Enter your choice.: "))
