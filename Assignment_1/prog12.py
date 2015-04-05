@@ -1,0 +1,1 @@
+print("LoL\n LAUGH \n OUT \n LOUD")
